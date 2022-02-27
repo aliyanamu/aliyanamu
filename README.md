@@ -1,5 +1,5 @@
-### Hi there 👋, just call me Hana.
-### 안녕하세요, 하나라고 불러주세요.
+### Hi there 👋 just call me Hana.
+### 안녕하세요. 하나라고 불러주세요.
 ##### I'm trying to make small improvement every day.
 ##### 작은 개선을 하려고 해요.
 
