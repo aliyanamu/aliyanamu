@@ -1,7 +1,7 @@
 ### Hi there 👋, just call me Hana.
 ##### I'm trying to make small improvement every day.
 
-![I'm trying to make small improvement every day.](https://images.unsplash.com/photo-1502101872923-d48509bff386?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80)
+![I'm trying to make small improvement every day.](https://images.unsplash.com/photo-1502101872923-d48509bff386?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=50)
 
 I am working as a full stack dev since 2018 in Indonesia and currently looking for overseas opportunities. 
 
