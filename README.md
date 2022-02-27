@@ -10,6 +10,8 @@ Skills: Node.js / Angular / Neo4j / MySQL / MongoDB / ES / Redis
 - 🔭 I’m currently working on journal app for my self as well as trying to make journaling as habit.
 - 🌱 I’m currently learning React
 
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aliyanamu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hana-aliyah-mufidah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ifortland)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hanalyh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/HanaAl)  
 
 ![Profile views](https://gpvc.arturio.dev/aliyanamu) 
